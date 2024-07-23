@@ -1,0 +1,25 @@
+.top-section{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border : 2px solid black;
+    padding : 3px;
+}
+
+#bg2{
+    border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  margin: 9.5px;
+
+}
+#para2{
+    text-align: right;
+    color : black;
+}
+body{
+    border : 10px solid black;
+    margin : 10px;
+    padding : 15px;
+}
